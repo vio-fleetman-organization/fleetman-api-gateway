@@ -1,4 +1,4 @@
-FROM amazoncorretto:21.0.2-al2023-headless
+FROM amazoncorretto:17.0.5-al2022-RC-headless
 
 MAINTAINER Richard Chesterwood "contact@virtualpairprogrammers.com"
 
